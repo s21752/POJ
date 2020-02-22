@@ -1,4 +1,4 @@
-package com.orpuwupetup;
+package com.orpuwupetup.zjazd1;
 
 public class Main {
 
@@ -12,5 +12,7 @@ public class Main {
         if (isZero = (mogulo = baz % 40.00d) > 0) {
             System.out.println(mogulo);
         }
+
+        System.out.println("zjazd 1");
     }
 }
